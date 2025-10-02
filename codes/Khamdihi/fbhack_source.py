@@ -1,5 +1,4 @@
-# Decrypted by Exotic Hridoy
-# Source & projects: https://github.com/cryptonite-core
+""" Decompiled by Exotic Hridoy """
 
 import requests
 import re
@@ -620,3 +619,4 @@ def Simpanhasil(data, ok=False):
 
 if __name__ == '__main__':
     Menu().MenuNoLogin()
+
