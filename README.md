@@ -4,7 +4,7 @@ Decode the attached files and contact the author with the reversed keys.
 
 ![Obfuscated File](https://github.com/exotic-inx/REVERSE/assets/92029487/977a586c-0640-4ad2-ba24-6488c6c25e65)
 
-### About [codes](https://github.com/cryptonite-core/REVERSE/codes)
+### About [codes](https://github.com/cryptonite-core/REVERSE/tree/main/codes)
 No code should be a black box. I decrypt to reveal the inner workings, publishing everything for those who want to learn how it's done.
 
 <h4><b>OBFUCATED FILE</b></h4>
