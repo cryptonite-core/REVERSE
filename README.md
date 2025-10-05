@@ -9,8 +9,9 @@ Objective **—** Deobfuscate the attached files and contact the author with the
 - Execution may take a moment.
 - Contains no harmful elements.
 - Avoid running on weak devices to prevent lag or force exits.
+- Requires Python 3.11
 
-<h4><b>LEVEL</b></h4>
+<h4><b>LEVELS</b></h4>
 
 - [x] Easy
 - [x] Average
